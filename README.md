@@ -25,8 +25,8 @@ Para visualizar a página localmente, você precisará de um navegador de intern
 
 1. **Clonar o Repositório**
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_REPOSITORIO>
+   git clone <https://github.com/devkapassos/google_home>
+   cd <google_home>
 
 2. Abrir a Página
 
